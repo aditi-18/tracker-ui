@@ -58,10 +58,9 @@ function Footer() {
     <small>
       <hr />
       <p className="text-center">
-        Full source code available at this
+        Code available at this
         {' '}
-        <a href="https://github.ccs.neu.edu/NEU-CS5610-SU21/SahaiAyush-book">
-          SahaiAyush-Book
+        <a href="https://github.ccs.neu.edu/NEU-CS5610-SU21/Aditi-Book">
         </a>
       </p>
     </small>
